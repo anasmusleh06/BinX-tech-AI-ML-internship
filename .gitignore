@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb~
+.jupyter/
+
+# IPython
+.ipython/
+
+# Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+data/raw/
+data/processed/
+
+# Outputs
+*.png
+*.jpg
+*.jpeg
+*.pdf
+outputs/
+results/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Package files
+*.egg-info/
+dist/
+build/
+
+# Temporary
+*.tmp
+*.temp
+.cache/
