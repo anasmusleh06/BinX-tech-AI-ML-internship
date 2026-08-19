@@ -41,9 +41,9 @@ data/ Datasets for hands-on labs
 
 | Week | Status | Description |
 |------|--------|-------------|
-| 1-3 | Complete | Foundation concepts mastered |
-| 4 | In Progress | Evaluation and tuning (Days 1-5) |
-| 5-8 | Pending | Advanced techniques |
+| 1-4 | Complete | Foundation concepts mastered |
+| 5 | In Progress |  Advanced ML techniques  |
+| 6-8 | Pending | Advanced techniques |
 | 9-10 | Pending | Capstone project |
 
 ## Performance Metrics
