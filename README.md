@@ -59,4 +59,3 @@ data/ Datasets for hands-on labs
 - Organization: BinX Tech, Palestine
 - Started: August 2026
 - Ended: September 2026 (2-Months and half)
-- Repository Link: https://github.com/anasmueleh06/BinX-tech-AI-ML-internship
