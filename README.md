@@ -12,14 +12,14 @@ structured across four phases with progressive hands-on learning and industry-st
 ### Phase 1: Foundations (Weeks 1-3)
 Completed foundational concepts in data science and machine learning:
 
-- **Week 1:** Exploratory Data Analysis (EDA) - Data understanding, visualization and preprocessing.
-- **Week 2:** Supervised Learning Foundations - Regression and classification algorithms.
-- **Week 3:** Model Evaluation and Selection - Metrics, cross-validation and model comparison.
+- **Week 1:** Python and Data Science Foundations - Environment setup, NumPy, Pandas and Matplotlib.
+- **Week 2:** Exploratory Data Analysis (EDA) - Data understanding, visualization and preprocessing.
+- **Week 3:** Supervised Learning Foundations - Regression and classification algorithms.
 
 ### Phase 2: Core ML Engineering (Weeks 4-8)
 Advanced model development and production-ready workflows:
 
-- **Week 4:** Evaluation, Tuning & Pipelines.
+- **Week 4:** Model Evaluation and Selection - Metrics, cross-validation and model comparison.
 - **Week 5-6:** Advanced ML Techniques.
 - **Week 7-8:** 
 
