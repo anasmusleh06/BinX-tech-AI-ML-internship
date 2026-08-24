@@ -21,4 +21,3 @@
 - The dataset is used for educational machine-learning analysis.
 - `cardio` is the supervised-learning target.
 - `id` is treated as an identifier rather than a predictive feature.
-- The exact meaning and encoding of categorical fields should be checked against the original Kaggle dataset documentation before making domain-specific interpretations.
