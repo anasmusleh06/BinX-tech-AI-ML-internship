@@ -16,7 +16,7 @@
 | `active` | Physical-activity indicator | Binary |
 | `cardio` | Target class for the classification task | Binary: 0 / 1 |
 
-## Notes
+## Notes:
 
 - The dataset is used for educational machine-learning analysis.
 - `cardio` is the supervised-learning target.
